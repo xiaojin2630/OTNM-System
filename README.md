@@ -117,4 +117,8 @@ Agent 内部维持着一套严密的监控评估状态机，通过拉取、探�
 ![智能告警收敛演示](gifs/alarm_convergence.gif)
 
 
+## 关于Agent技术选型与架构说明
+[关于Agent技术选型与架构说明](./docs/关于Agent技术选型与架构说明.md)
+
+
 ## 演示与截图
